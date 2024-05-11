@@ -1,0 +1,22 @@
+/* Add this to your global CSS file or a CSS module */
+
+
+.custom-carousel.carousel.slide {
+    text-align: center;
+    line-height: 400px; /* Adjust based on your needs */
+    color: white;
+    font-size: 20px;
+    background: #000;
+    box-sizing: border-box;
+    max-height: 400px;
+    
+    
+  }
+
+  
+  
+  .custom-carousel.carousel.slide img {
+    
+    object-fit: cover;
+  }
+  
